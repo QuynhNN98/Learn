@@ -143,11 +143,3 @@ Postfix (Hậu tố)
    // a-z A-Z 0-0;
    //function  tên
 
-
-//! test
-//! Hiển test
-//! Hiển test2
-
-//! Hiển test3
-// Hiển đẹp trai
-// hien dep 2
